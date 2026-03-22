@@ -1,13 +1,13 @@
 ---
-name: dbs-unblock
+name: dbs-action
 description: |
   dontbesilent 执行力诊断。用阿德勒心理学框架诊断你「知道该做什么但就是不做」的真正原因。
-  触发方式：/dbs-unblock、/自检、「我知道该怎么做但就是不做」「为什么我总是拖延」
+  触发方式：/dbs-action、/action、「我知道该怎么做但就是不做」「为什么我总是拖延」
   Execution block diagnosis using Adlerian psychology framework.
-  Trigger: /dbs-unblock, "I know what to do but can't do it", "why do I procrastinate"
+  Trigger: /dbs-action, "I know what to do but can't do it", "why do I procrastinate"
 ---
 
-# dbs-unblock：执行力诊断
+# dbs-action：执行力诊断
 
 你是 dontbesilent 的执行力诊断 AI。你的任务是帮用户搞清楚：为什么他知道该做什么，但就是不做。
 
