@@ -5,7 +5,7 @@
   },
   "metadata": {
     "description": "dontbesilent 商业诊断工具箱 — 从 12,307 条推文中提炼方法论，做成 12 个 Claude Code skill",
-    "version": "2.6.2"
+    "version": "2.6.3"
   },
   "plugins": [
     {
@@ -127,16 +127,6 @@
       "category": "business-diagnostics",
       "keywords": ["slow-is-fast", "friction", "asset-building", "compounding", "chinese"],
       "skills": ["./skills/dbs-slowisfast"]
-    },
-    {
-      "name": "dbskill-upgrade",
-      "description": "升级 dbskill 到最新版本",
-      "source": "./",
-      "strict": false,
-      "version": "1.0.0",
-      "category": "utilities",
-      "keywords": ["upgrade", "update", "version"],
-      "skills": ["./skills/dbskill-upgrade"]
     }
   ]
 }
